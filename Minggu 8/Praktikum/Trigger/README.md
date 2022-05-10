@@ -1,4 +1,4 @@
-Triger database untuk proses update Stok
+## 🚀 Triger database untuk proses update Stok
 
 1.	Pembuatan table produk untuk database orderentry
 
