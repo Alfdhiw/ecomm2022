@@ -12,7 +12,5 @@
 
 3.	Hasil trigger
 
-![Proses Add Kolom](https://user-images.githubusercontent.com/80201030/167623739-75731110-74f9-4a4a-8c10-1c919831677b.PNG)
-
 ![Trigger](https://user-images.githubusercontent.com/80201030/168586626-d2c6b8bd-11e8-425e-9c51-c790d367468c.PNG)
 
